@@ -12,10 +12,12 @@ h1{
  }
  section{
      display:flex;
+     margin-bottom: 100px;
  }
  .half-width{
      width: 50%;
      padding-left: 60px;
+     padding-top: 30px;
  }
  .half-width img{
      width: 80%;
@@ -30,4 +32,13 @@ h1{
  .background-image{
         background-image: url(images/top-banner.png);
         background-repeat: no-repeat;
+ }
+ .background-img-for-2ndsection{
+     background-image: url(images/dream-bg.png);
+     background-repeat: no-repeat;
+     background-position: right;
+     
+ }
+ .chapao{
+     padding-right: 150px;
  }
